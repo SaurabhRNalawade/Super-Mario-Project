@@ -3,7 +3,7 @@ Project Workflow
  
 **Step 1 - Login and basics setup create the EC2 instance and select the instance type "t2.mediam" and increase the volume size upto 30 GB.**
 
-**Step 2 - Then goto EC2 IAM and create the role with AWSFMAdminFullAccess and EKS cluster permissions. attach the IAM role.**
+**Step 2 - Then go to EC2 IAM and create the role with AWSFMAdminFullAccess and EKS cluster permissions and attach the IAM role.**
 
 **Step 3 - Connect the instance and Setup Docker ,Terraform ,aws cli , and Kubectl.**
 
