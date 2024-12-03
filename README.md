@@ -11,7 +11,7 @@ Project Workflow
 
 **Step 5 - Creation of deployment and service for EKS.**
 
-## Step 1 → Setup Tools
+### Step 1 → Setup Tools
 ````
 sudo apt update -y
 ````
@@ -111,7 +111,7 @@ terraform apply --auto-approve
 ````
 aws eks update-kubeconfig --name EKS_CLOUD --region ap-southeast-1 --profile eks
 ````
-## Step 6 - Creation of deployment and service for EKS
+## Step 5 - Creation of deployment and service for EKS
 change the directory where deployment and service files are stored use the command →
 ````
 cd ..
