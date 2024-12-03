@@ -135,7 +135,7 @@ Final Output: Enjoy The Game 🎮
 
 ![image](https://github.com/user-attachments/assets/6712966d-dbbc-460c-802b-9bdaca458db6)
 
-Delete Infra
+**Delete Infra**
 ````
  terraform destroy -auto-approve
 ````
