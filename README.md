@@ -1,6 +1,6 @@
 # ${\color {blue} \textbf {Super-Mario-Project}}$
 
-**Project Workflow**
+**${\color {blue} \textbf {Project Workflow}}$**
  
 **Step 1 - Login and basics setup create the EC2 instance and select the instance type "t2.mediam" and increase the volume size upto 30 GB.**
 
