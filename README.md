@@ -1,4 +1,4 @@
-# ${\color {rainbow} \textbf {Super-Mario-Project}}$
+# ${\color {blue} \textbf {Super-Mario-Project}}$
 
 **Project Workflow**
  
